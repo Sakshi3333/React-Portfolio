@@ -2,7 +2,8 @@ import React from "react";
 import styles from "./Contact.module.css"
 import { getImageUrl } from "../../utils";
 export const Contact = () => {
-    return <footer id="contact" className={styles.container}>
+    return (
+    <footer id="contact" className={styles.container}>
         <div className={styles.text}>
             <h2>
                 Contact
@@ -25,5 +26,6 @@ export const Contact = () => {
                 <a href="https://github.com/Sakshi3333">github.com/Sakshi3333</a>
             </li>
         </ul>
-    </footer>;
+    </footer>
+    );
 };
