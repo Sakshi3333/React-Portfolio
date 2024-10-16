@@ -6,8 +6,9 @@ export const Hero = () => {
     return <section className ={styles.container}>
             <div className = {styles.content}>
                 <h1 className={styles.title}>Hi, I'am Sakshi</h1>
-                <p className={styles.description}> I am fullstack developer with 1 years of experience with 
-                    Angular and React. Reach out if you'd like to learn more!
+                <p className={styles.description}>I am a passionate software developer skilled in C++, Java, C#, ASP.NET Core, Python,
+                MySQL,and Angular. I excel at troubleshooting and delivering high-quality software, 
+                with a strong work ethic and the ability to quickly master new technologies.
                 </p>
                 <a href="mailto:shindesakshi3000@gmail.com" 
                 className={styles.contactBtn}>Contact Me</a>

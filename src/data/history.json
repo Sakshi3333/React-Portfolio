@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Software Developer",
+      "organisation": "Enthral.ai",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences":[ "Delivered and maintained scalable system architecture to ensure high availability across various internal applications.",
+      "Engaged in performance improvement, coding, unit testing, documentation, and implementation of new features.",
+      "Proficient in ASP.NET Core, CSharp, and Microsoft SQL Server for robust back-end development, with Angular used for full-stack development.",
+      "Effectively collaborated with cross-functional teams, handled major clients, and developed tailored features."],
+      "imageSrc": "history/enthral.png"
+    },
+    {
+      "role": "Software Developer Intern",
+      "organisation": "Softech Solutions",
+      "startDate": "Jan 2023",
+      "endDate": "June, 2023",
+      "experiences": ["Data collection processes, extensive research on carbonation levels collaboration with product development teams.",
+      "Leveraged a diverse technological skill set, utilizing Python ."],
+      "imageSrc": "history/microsoft.png"
+    }
+  ]

@@ -1,0 +1,48 @@
+[
+    {
+        "title": "C",
+        "imageSrc": "skills/C.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/cpp.png"
+    },
+    {
+        "title": "C#",
+        "imageSrc": "skills/csharp.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": ".NET",
+        "imageSrc": "skills/dotnet.png"
+    },
+    {
+        "title": "MSSQL",
+        "imageSrc": "skills/mssql.png"
+    },
+    {
+        "title": "Angular",
+        "imageSrc": "skills/angular.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+    
+  ]

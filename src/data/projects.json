@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Virtual File System",
+      "imageSrc": "projects/project.png",
+      "description": ["Spearheaded the development of a comprehensive project that mirrors the functionalities of a Linux File System. Demonstrated strong systems programming skills by meticulously implementing core data structures of a file system, including the Incore Inode Table, File Table,UAREA, and User File Descriptor Table."],
+      "skills": ["C++"],
+      "source": "https://github.com/Sakshi3333/Customised-File-Virtual-System"
+    },
+    {
+      "title": "Versatile Data Structure Library",
+      "imageSrc": "projects/project.png",
+      "description": ["Led the creation of an extensive C++ library celebrated for hosting versatile and standardized implementations of a diverse spectrum of pivotal data structures, addressing fundamental to intricate operations with finesse."],
+      "skills": ["C++"],
+      "source": "https://github.com/Sakshi3333/Generic-Data-Structure-Library"
+    },
+    {
+      "title": "Customised Database Management System",
+      "imageSrc": "projects/project.png",
+      "description": ["Designed and developed a Console Based Database Management System using Java,enabling users to interact with a database through string queries and perform various operations. Implemented a custom database structure utilizing linked lists, efficiently managing data storage and retrieval."],
+      "skills": ["Java"],
+      "source": "https://github.com/Sakshi3333/Customised-Database-Management-System"
+    }
+  ]
